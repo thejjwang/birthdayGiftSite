@@ -16,12 +16,6 @@ h1, h2, h3, h4, p {
     margin-bottom: 10px;
 }
 
-/*
-Challenge:
-Make the bday elements look like the
-provided design slide.
-*/
-
 #bday-age {
     background: #EFB0C9;
     padding: 5px 10px;
@@ -41,3 +35,23 @@ provided design slide.
     flex-direction: column;
     align-items: center;
 }
+
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+.gift-img {
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+
